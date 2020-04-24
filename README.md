@@ -2,7 +2,7 @@
 ## Endpoints:
 GET - __/api/books__ - returns a parsed JSON file with 2 default books\
 GET - __/api/books/:id__ - returns a parsed JSON book item with that ID\
-POST - __/api/books - takes an JSON file in body of the request with this interface
+POST - __/api/books__ - takes an JSON file in body of the request with this interface
 ```
 {
   "isbn": "string",
